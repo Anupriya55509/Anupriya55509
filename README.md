@@ -14,9 +14,9 @@ Networking
 OOPs
 
 ### 🚀 Projects
-Car Price Prediction Using ML
-Credit Card Customer Report Using PowerBI
-Hotel-Booking Cancellation Using Excel
+Car Price Prediction Using ML | 
+Credit Card Customer Report Using PowerBI |
+Hotel-Booking Cancellation Using Excel |
 Hotel Revenue Dashboard Using PowerBI
 
 ### 🏆 Achievements
